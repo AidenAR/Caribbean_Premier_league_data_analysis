@@ -77,31 +77,31 @@ OVERALL:
 8) Number of CPL matches played, by each Franchise
 
 BATTING STATS:
-1)Total Runs Scored by each Franchise
-2)Top 10 Leading Run Scorers in the CPL
-3)Average Powerplay runs by each Franchise
-4)All CPL century- makers and number of centuries each
+1) Total Runs Scored by each Franchise
+2) Top 10 Leading Run Scorers in the CPL
+3) Average Powerplay runs by each Franchise
+4) All CPL century- makers and number of centuries each
 5) 10 Bastman with most CPL Half Centuries
 6) List of the Batsman with the greatest number of runs in each season
 7) List of the Top 10 greatest number runs scored by a single player in a season
-8)10 Bastman with the most Fours struck
-9)Top 10 Highest Team Totals in CPL History
-10)10 Bastman with the most Sixes struck
-11)Number of CPL Sixes Hit by Season
-12)Top 10 Highest individual Scores and Batsman
-13)Top 10 individual innings with the Highest Number of 6s
+8) 10 Bastman with the most Fours struck
+9) Top 10 Highest Team Totals in CPL History
+10) 10 Bastman with the most Sixes struck
+11) Number of CPL Sixes Hit by Season
+12) Top 10 Highest individual Scores and Batsman
+13) Top 10 individual innings with the Highest Number of 6s
 
 BOWLING STATS:
-1)Leading wicket Takers by Season
-2)Bowlers with the most wickets each season (and number of wickets)
-3)Top 10 Leading Wicket-Takers in the CPL
-4)Number of Wickets Taken by each CPL Franchise
-5)Bowlers with most dot balls
-6)Bowlers with most CPL Maiden Overs
+1) Leading wicket Takers by Season
+2) Bowlers with the most wickets each season (and number of wickets)
+3) Top 10 Leading Wicket-Takers in the CPL
+4) Number of Wickets Taken by each CPL Franchise
+5) Bowlers with most dot balls
+6) Bowlers with most CPL Maiden Overs
 7)Number of Extras Conceded by All Franchises in CPL History
-8)Number of Wides bowled by each franchise in CPL History
-9)Number of No Balls bowled by each franchise in CPL History
-10)Top 10 Bowlers with Most No-Balls in CPL History
-11)Top 10 Bowlers with most runs conceded in an innings
+8) Number of Wides bowled by each franchise in CPL History
+9) Number of No Balls bowled by each franchise in CPL History
+10) Top 10 Bowlers with Most No-Balls in CPL History
+11) Top 10 Bowlers with most runs conceded in an innings
 
 
