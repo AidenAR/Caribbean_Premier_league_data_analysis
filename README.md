@@ -2,7 +2,7 @@ Caribbean Premier League (CPL) Data Analysis and Visualization
 
 Data Source:
 The ball  by ball Caribbean Premier League (CPL) data was pulled as a csv file from CricSheets https://cricsheet.org/downloads/. [New Format was used]
-Note: In future: to improve I intend to implemenet a Web Scraper with Selenium Webdriver and collect my own data from Espn Cricinfo.
+Note: In future: to improve I intend to implement a Web Scraper with Selenium Webdriver and collect my own data from Espn Cricinfo.
 
 The first row of the ball-by-ball CSV file contains the headers for the file, with each subsequent row providing details on a single delivery.
 The headers in the file are:
