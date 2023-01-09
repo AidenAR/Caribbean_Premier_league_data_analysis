@@ -102,6 +102,4 @@ BOWLING STATS:
 8) Number of Wides bowled by each franchise in CPL History
 9) Number of No Balls bowled by each franchise in CPL History
 10) Top 10 Bowlers with Most No-Balls in CPL History
-11) Top 10 Bowlers with most runs conceded in an innings
-
-
+11) Top 10 Bowlers with most runs conceded in an innings.
